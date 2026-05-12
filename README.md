@@ -1,15 +1,15 @@
 # Simple Interest Calculator
 
-This repository contains a simple interest calculator.
-
 ## Description
-A calculator that computes simple interest based on user input.
+A simple interest calculator that computes interest based on user inputs.
 
-## Usage
-The calculator takes the following inputs:
-- **Principal** – the initial amount of money
-- **Rate of Interest** – the annual interest rate
-- **Time Period** – the duration in years
+## Inputs
+- **Principal** – the initial amount
+- **Rate of Interest** – annual interest rate (%)
+- **Time Period** – duration in years
 
 ## Formula
-Simple Interest = (Principal x Rate x Time) / 100
+Simple Interest = (Principal × Rate × Time) / 100
+
+## Usage
+Run the `simple-interest.sh` script and enter the values when prompted.
