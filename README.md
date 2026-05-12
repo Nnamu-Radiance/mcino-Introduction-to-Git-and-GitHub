@@ -13,3 +13,4 @@ Simple Interest = (Principal × Rate × Time) / 100
 
 ## Usage
 Run the `simple-interest.sh` script and enter the values when prompted.
+
