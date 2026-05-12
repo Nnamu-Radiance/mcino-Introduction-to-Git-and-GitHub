@@ -1,7 +1,9 @@
 # Simple Interest Calculator
 
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+
 ## Description
-A simple interest calculator that computes interest based on user inputs.
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
 ## Inputs
 - **Principal** – the initial amount
@@ -14,3 +16,4 @@ Simple Interest = (Principal × Rate × Time) / 100
 ## Usage
 Run the `simple-interest.sh` script and enter the values when prompted.
 
+2023 XYZ, Inc.
