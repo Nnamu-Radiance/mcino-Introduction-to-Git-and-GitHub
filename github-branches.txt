@@ -1,0 +1,4 @@
+$ git branch -vv
+  bug-fix-revert 0216d50 Revert "fix: update copyright year from 2022 to 2023 in README footer"
+  bug-fix-typo   9aa5670 fix: update copyright year from 2022 to 2023 in README footer
+* main           9aa5670 [origin/main] fix: update copyright year from 2022 to 2023 in README footer
